@@ -7,6 +7,8 @@ filename_overview = "Dataset/aoe_data.csv"
 
 
 
+
+
 def plot_elo_time(data, overview):
     plt.figure()
     plt.title("Time Over Average ELO")
@@ -73,6 +75,10 @@ def plot_time_progression(data, overview):
     plt.plot(data_x, data_y[2])
     
     plt.show()
+
+
+
+
 
 
 def main():
