@@ -1,6 +1,7 @@
 # Dataset
 [Dd]ataset/
 [Dd]atasetFull/
+[Dd]ataset/inputs/
 
 # Prerequisites
 *.d
